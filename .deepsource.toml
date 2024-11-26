@@ -1,6 +1,5 @@
 version = 1
 
-include_brances = ["main", "Bugfix", "Hotfix", "Archive", "Release", "Feature"]
 
 [[analyzers]]
 name = "python"
